@@ -4,6 +4,7 @@ Restructuring an existing body of code, altering its internal structure without 
 
 # Level 1
 
+* Read Kyle's blog [Yeah!](https://kyle-annen.github.io/product/2017/10/16/zagaku-app-proposal.html)
 * Read [Introduce Explaining Variable](http://sourcemaking.com/refactoring/introduce-explaining-variable)
 * Read [Rename Method](http://sourcemaking.com/refactoring/rename-method)
 * Read [Extract Method](http://sourcemaking.com/refactoring/extract-method)
