@@ -36,3 +36,4 @@ Restructuring an existing body of code, altering its internal structure without 
 * [Refactoring](https://amzn.com/0201485672) 
 * [Refactoring: Ruby Edition](https://amzn.com/0321603508)
 * [Refactoring to Patterns](https://amzn.com/0321213351)
+
