@@ -9,6 +9,7 @@ Restructuring an existing body of code, altering its internal structure without 
 * Read [Rename Method](http://sourcemaking.com/refactoring/rename-method)
 * Read [Extract Method](http://sourcemaking.com/refactoring/extract-method)
 * Read [Move Method](http://sourcemaking.com/refactoring/move-method)
+* Read more things
 
 ## You should be able to
 
